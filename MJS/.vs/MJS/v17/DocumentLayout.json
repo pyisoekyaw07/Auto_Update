@@ -6,7 +6,7 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MJS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D721BF30-A1A8-478C-BD00-C6E648B0EFEE}|MJS.csproj|d:\\auto_update\\mjs\\gform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D721BF30-A1A8-478C-BD00-C6E648B0EFEE}|MJS.csproj|D:\\Auto_Update\\MJS\\gform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D721BF30-A1A8-478C-BD00-C6E648B0EFEE}|MJS.csproj|solutionrelative:gform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,7 +58,7 @@
       "RelativeMoniker": "D:0:0:{D721BF30-A1A8-478C-BD00-C6E648B0EFEE}|MJS.csproj|solutionrelative:bb form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D721BF30-A1A8-478C-BD00-C6E648B0EFEE}|MJS.csproj|d:\\auto_update\\mjs\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+      "AbsoluteMoniker": "D:0:0:{D721BF30-A1A8-478C-BD00-C6E648B0EFEE}|MJS.csproj|d:\\auto_update\\mjs\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,7 +68,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -117,8 +117,7 @@
               "RelativeToolTip": "gform.cs",
               "ViewState": "AQIAAHYAAAAAAAAAAAAvwC4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T22:10:29.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T22:10:29.179Z"
             },
             {
               "$type": "Document",
@@ -130,6 +129,18 @@
               "RelativeToolTip": "..\\..\\New folder\\Update_My_Application\\MJS\\gform.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T22:10:15.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MJS",
+              "DocumentMoniker": "D:\\Auto_Update\\MJS\\MJS.csproj",
+              "RelativeDocumentMoniker": "MJS.csproj",
+              "ToolTip": "D:\\Auto_Update\\MJS\\MJS.csproj",
+              "RelativeToolTip": "MJS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-06T15:46:13.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -176,18 +187,6 @@
               "RelativeToolTip": "..\\..\\Update_My_Application\\MJS\\master2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T17:05:53.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MJS",
-              "DocumentMoniker": "D:\\Auto_Update\\MJS\\MJS.csproj",
-              "RelativeDocumentMoniker": "MJS.csproj",
-              "ToolTip": "D:\\Auto_Update\\MJS\\MJS.csproj",
-              "RelativeToolTip": "MJS.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-06T15:46:13.802Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
